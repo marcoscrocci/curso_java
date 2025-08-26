@@ -1,4 +1,4 @@
-public class Main { 
+public class MainAula36 { 
     public static void main(String[] args) { 
         // Variáveis
         int farinha = 2; 

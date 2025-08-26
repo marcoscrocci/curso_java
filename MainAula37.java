@@ -1,4 +1,4 @@
-public class Main {
+public class MainAula37 {
 
     public static void main(String[] args) {
         // Tipos primitivos

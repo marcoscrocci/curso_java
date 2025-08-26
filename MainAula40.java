@@ -1,4 +1,4 @@
-public class Main {
+public class MainAula40 {
 
     public static void main(String[] args) {
         // Exemplo de declaração e inicialização de variáveis com inferência de tipo
