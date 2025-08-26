@@ -1,6 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
+        // Tipos primitivos
         byte idade = 25;
         short ano = 2024;
         int populacaoCidade = 500000;
